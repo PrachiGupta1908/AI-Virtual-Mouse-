@@ -29,5 +29,5 @@ pip install opencv-python mediapipe pyautogui
 
 ---
 
-Author
+## Author
 Prachi Gupta
