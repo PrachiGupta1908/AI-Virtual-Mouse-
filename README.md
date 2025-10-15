@@ -1,5 +1,19 @@
 # AI Virtual Mouse
 
+---
+
+## Author
+
+**Prachi Gupta**  
+  
+
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.7+-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green)
+![Mediapipe](https://img.shields.io/badge/Mediapipe-latest-orange)
+
 A Python project that allows you to **control your computer mouse using hand gestures** detected from your webcam.  
 This project uses **OpenCV**, **Mediapipe**, and **PyAutoGUI**.
 
@@ -27,8 +41,5 @@ Install dependencies using:
 ```bash
 pip install opencv-python mediapipe pyautogui
 
----
 
-**## Author**
 
-Prachi Gupta
